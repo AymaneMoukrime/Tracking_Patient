@@ -111,4 +111,5 @@ To simulate you will need a device that sends the location of the patient , but 
 
 - This was possible because of the use of websocket so that each time the location of patient is update it will be checked if his withing the safe range and will be sent through the websocket so that it can be displayed.
 
-## Video Demonstration
+## Video Demonstration of the tracking
+https://drive.google.com/file/d/1ZyMUX8lk0IGkCEaKaQHGTSR2gzSBIhy0/view?usp=sharing
