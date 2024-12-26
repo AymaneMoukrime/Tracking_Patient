@@ -73,7 +73,9 @@ Here are step-by-step instructions to set up and run this project locally:
 
 - Run each microservice and make sure to run also the Gateway 
 
-- check if the microservices are dispalyed in [http://localhost:8761/](http://localhost:8761/)
+- check if the microservices are dispalyed in [http://localhost:8761/](http://localhost:8761/),you need to be able to see something like this :
+
+ <img width="1280" alt="image" src="https://github.com/user-attachments/assets/06c76161-ed65-4d64-9bdb-745fca251748" />
 
 - you will not need any database since the project uses **H2 database** for development.
 
